@@ -58,6 +58,9 @@ body{
     font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
 }
+.texto{
+    color: var(--cor-terciaria);
+}
 
 .apresentacao__links{
     display: flex;
@@ -81,7 +84,7 @@ body{
     border-radius: 8px;
     font-size: 1.5rem;
     font-weight: 600;
-    padding: 21.5px 0;
+    padding: 21.5px 6px;
     text-decoration: none;
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
@@ -118,3 +121,4 @@ body{
         width: auto;
     }
 }
+
