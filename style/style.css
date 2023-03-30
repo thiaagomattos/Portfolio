@@ -89,7 +89,7 @@ body{
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
 }
-.apresentacao__links__link:hover{
+.apresentacao__links__navegacao:hover{
     background-color: var(--cor-hover);
 }
 .apresentacao__imagem{
@@ -121,4 +121,6 @@ body{
         width: auto;
     }
 }
+
+
 
